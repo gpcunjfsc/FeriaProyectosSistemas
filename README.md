@@ -43,11 +43,14 @@ La comisión organizadora, encabezada por la junta directiva de la Escuela de In
 
 ### 5. Características a Evaluar
 
-- **Objetivos Claros:** Se valorará la claridad y relevancia de los objetivos planteados en cada proyecto, así como su alineación con las necesidades identificadas. (0 - 10 PT)
-- **Innovación:** La originalidad y creatividad en las soluciones propuestas serán criterios fundamentales de evaluación, considerando el impacto potencial en el campo de la ingeniería y más allá. (0 - 10 PT)
-- **Viabilidad:** Se evaluará la factibilidad técnica y práctica de implementación de cada proyecto, considerando recursos disponibles y posibles limitaciones. (0 - 10 PT)
-- **Colaboración:** Se valorará la capacidad de trabajo en equipo, la comunicación efectiva y la distribución equitativa de tareas entre los miembros del equipo.  (0 - 10 PT)
-- **Justificación:** Los participantes deberán estar preparados para sustentar su proyecto ante el jurado, proporcionando detalles técnicos, análisis de costos y otros elementos relevantes para su comprensión y evaluación. (0 - 10 PT)
+| Criterio         | Descripción                                                                                               | Puntaje 0-10 |
+|------------------|-----------------------------------------------------------------------------------------------------------|------------------|
+| Objetivos Claros | Se valorará la claridad y relevancia de los objetivos planteados en cada proyecto.                        |        X         |
+| Innovación       | La originalidad y creatividad en las soluciones propuestas serán criterios fundamentales de evaluación.  |        X         |
+| Viabilidad       | Se evaluará la factibilidad técnica y práctica de implementación de cada proyecto.                         |        X         |
+| Colaboración     | Se valorará la capacidad de trabajo en equipo, la comunicación efectiva y la distribución equitativa de tareas entre los miembros del equipo. | X |
+| Justificación    | Los participantes deberán estar preparados para sustentar su proyecto ante el jurado, proporcionando detalles técnicos, análisis de costos y otros elementos relevantes para su comprensión y evaluación. | X |
+
 
 ### 6. Ejemplos de Proyectos Destacados del Año Anterior
 - **Ganador:** El proyecto ganador del año pasado fue una innovadora simulación de Spotify dirigida a artistas locales y emergentes. Esta plataforma proporciona a los artistas una oportunidad única para promocionar y compartir su música, conectándolos directamente con su audiencia y generando nuevas oportunidades de crecimiento en la industria musical.
