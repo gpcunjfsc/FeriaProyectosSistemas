@@ -53,7 +53,7 @@ La comisión organizadora, encabezada por la junta directiva de la Escuela de In
 
 
 ### 6. Ejemplos de Proyectos Destacados del Año Anterior
-- **Ganador:** El proyecto ganador del año pasado fue una innovadora simulación de Spotify dirigida a artistas locales y emergentes. Esta plataforma proporciona a los artistas una oportunidad única para promocionar y compartir su música, conectándolos directamente con su audiencia y generando nuevas oportunidades de crecimiento en la industria musical.
+- **Ganador:** El proyecto ganador del año pasado fue una innovadora simulación de Spotify, denomidado con el nombre "The Spot", dirigida a artistas locales y emergentes. Esta plataforma proporciona a los artistas una oportunidad única para promocionar y compartir su música, conectándolos directamente con su audiencia y generando nuevas oportunidades de crecimiento en la industria musical.
 - **Segundo Lugar:** El segundo lugar lo obtuvo un emocionante RPG de gestión empresarial centrado en la optimización de inventarios. Este prototipo ofrece una experiencia interactiva y educativa, permitiendo a los usuarios simular la gestión de negocios y tomar decisiones estratégicas para maximizar la eficiencia y la rentabilidad.
 ### 6. Observaciones y Requisitos Adicionales
 
