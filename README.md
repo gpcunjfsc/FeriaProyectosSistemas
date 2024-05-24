@@ -18,7 +18,7 @@
 > [!WARNING]
 > Por favor, asegúrate de leer todas las normas y requisitos que contiene nuestras bases.
 
-## 🚀 Bases del Concurso y Feria de Proyectos
+## 🚀 Bases de la Feria de Proyectos
 
 ### 1. Presentación
    
