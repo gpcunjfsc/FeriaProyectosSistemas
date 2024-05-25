@@ -40,6 +40,7 @@ Los principales objetivos de la Feria de Proyectos son:
   - **Problemática:** Descripción detallada del problema que el proyecto busca abordar, explicando su importancia y las consecuencias de no resolverlo.
   - **Propuesta de Solución:** Presentación detallada de la solución planteada, incluyendo su diseño, funcionamiento y cómo aborda la problemática descrita.
   - **Objetivos del Proyecto:** Enumeración clara y específica de los objetivos que el proyecto busca alcanzar.
+  - **Público Objetivo del Proyecto:** Público principal al que va dirigido el proyecto (estos pueden ser los usuarios finales del proyecto en cuestión).
   - **Requerimientos Funcionales:** Detalle de las funcionalidades que el sistema debe ofrecer para cumplir con los objetivos.
   - **Requerimientos No Funcionales:** Especificaciones adicionales como rendimiento, seguridad, usabilidad y escalabilidad.
   - **Metodología:** Descripción del enfoque y las metodologías utilizadas para desarrollar el proyecto, incluyendo cualquier marco de trabajo, herramientas y tecnologías empleadas.
@@ -57,6 +58,7 @@ Cada proyecto deberá incluir una Declaración de Alcance que contenga:
  - **Criterios de Aceptación:** Estándares que determinarán si el proyecto se ha completado satisfactoriamente.
  - **Restricciones y Limitaciones:** Presupuesto, tiempo y recursos disponibles.
  - **Entregables del Proyecto:** Productos o resultados finales del proyecto.
+ - **Modelo de Negocio:** La forma en la que el proyecto ganará dinero para ser rentable.
  - **Roles y Responsabilidades:** Definición de las responsabilidades de cada miembro del equipo.
 
 ### 5. Tipos de Proyectos:
